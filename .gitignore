@@ -1,0 +1,38 @@
+# Python-specific
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebooks
+*.ipynb_checkpoints
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Datasets (if large)
+data/*
+!data/README.md  # Include a README if you have one
+
+# Model checkpoints and weights
+checkpoints/
+weights/
+*.pth
+*.pt
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.swp
+*.swo
