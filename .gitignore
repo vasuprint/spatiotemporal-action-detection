@@ -36,3 +36,6 @@ Thumbs.db
 # Miscellaneous
 *.swp
 *.swo
+
+# Symlink file
+Do
